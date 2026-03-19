@@ -2,7 +2,7 @@
 
 > **ML Engineer & AI-driven product builder.**
 
-Hey fellows builders, Welcome to my GitHub! 🚀  
+Hey fellow builders, Welcome to my GitHub! 🚀  
 I'm a  Machine Learning Engineer with a deep passion for building intelligent systems and bringing them to production.
 
 My background uniquely bridges technical execution with strategic leadership. I bring a strong sense of ownership, extreme accountability, and a product-oriented mindset to every engineering challenge. I don't just write code; I care about the market gap, the business model, and the end-user experience.
