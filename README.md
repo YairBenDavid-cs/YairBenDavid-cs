@@ -1,4 +1,4 @@
-# Yair Ben David - GitHub overview
+# Hey fellow builders, I'm Yair Ben David
 
 > **ML Engineer & AI-driven product builder. Welcome to my GitHub!** 🚀
 
